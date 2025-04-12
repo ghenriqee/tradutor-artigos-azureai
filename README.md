@@ -16,4 +16,4 @@ Este projeto utiliza a API do Azure Translator para traduzir conteúdos técnico
 
 ## Autor
 
-Projeto feito por [Seu Nome Aqui] durante o bootcamp da DIO.
+Projeto feito por Gabrie Henrique Obrigon de Moraes durante o bootcamp da DIO.
